@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.result{
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #71cdd9;
+}
+
+.bg-blue {
+    padding: 10px;
+    background-color: rgb(61 61 216);
+}
+
+.bg-red {
+    padding: 10px;
+    background-color: rgb(232 63 63);
+}
